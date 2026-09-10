@@ -1,7 +1,7 @@
 {
   "name": "ValheimQuickFill",
   "version_number": "1.1.1",
-  "website_url": "",
+  "website_url": "https://github.com/Mengluo972/ValheimQuickFill",
   "description": "一键装满熔炉与炭窑：按住 Ctrl 再按 E，把矿石/燃料一次性装到上限。One-key fill for smelters and charcoal kilns.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2350"
