@@ -1,0 +1,15 @@
+# 构建产物
+bin/
+obj/
+
+# 发布输出（完全由 build-package.sh 生成）
+dist/
+
+# IDE
+.vs/
+.idea/
+*.user
+
+# 系统
+Thumbs.db
+.DS_Store

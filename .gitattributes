@@ -1,0 +1,13 @@
+* text=auto
+
+# Shell 脚本必须保持 LF，否则在 Linux/macOS 上无法执行
+*.sh text eol=lf
+
+# Windows 批处理保持 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制
+*.png binary
+*.dll binary
+*.zip binary
